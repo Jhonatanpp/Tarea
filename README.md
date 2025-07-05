@@ -90,11 +90,3 @@ Se usa `ObjectOutputStream` y `ObjectInputStream` para guardar/cargar la estruct
 7.Guardar
 
 ![image](https://github.com/user-attachments/assets/6709b341-020a-4bc9-aaf9-50c711d10dc3)
-
-
-
-
-
----
-
-
